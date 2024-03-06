@@ -1,10 +1,7 @@
 /**
  *      @postbird
  *      1、本插件采用js编写，可直接将函数复制到个人js文件，减少get请求数
- *      2、author：powered by postbird
- *      3、email： ptbird@yeah.net
- *      4、site：http://www.ptbird.cn
- *      5、license : MIT
+ *      2、license : MIT
  * */
 /**
  *  函数使用说明：
