@@ -1,4 +1,3 @@
-/** Created by postbird on 2016/4/1.  ...*/
 /**
  *      @postbird
  *      1、本插件采用js编写，可直接将函数复制到个人js文件，减少get请求数
